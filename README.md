@@ -1,7 +1,7 @@
 # Joey Kokeny Creations
 
 This repository is a collection of my personal creative projects — including coding experiments, data visualizations, and small applications I’ve built for fun or learning. The goal is to share useful and interesting code that others can adapt, contribute to, or learn from. Future updates may include personal web tools, class projects, and other open-source contributions.
-
+ 
 ---
 
 ### Contents (Planned)
